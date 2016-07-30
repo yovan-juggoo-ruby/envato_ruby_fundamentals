@@ -1,0 +1,2 @@
+1. How to debug Ruby and ROR applications - linters and debuggers in sublime text 3.
+2. Install a Linux machine to host Redmine.
